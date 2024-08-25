@@ -1,0 +1,8 @@
+.create-form {
+  max-width: 600px;
+}
+
+input,
+textarea {
+  font-family: inherit;
+}
